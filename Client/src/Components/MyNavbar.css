@@ -1,0 +1,50 @@
+.main-navbar {
+    background-color: #05386B;
+}
+
+.nav-brand {
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-size: 25px;
+    text-decoration: none;
+    cursor: pointer;
+    margin-left: 5%;
+}
+
+.User-offcan {
+    background-color: #05386B
+}
+
+.offcanvas-Name {
+    margin-left: 23%;
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+    font-size: 28px;
+    text-decoration: underline;
+}
+
+.Main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-size: 18px;
+    margin-left: 10%;
+    color: #fff;
+    
+}
+
+.Main a {
+    padding: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: #fff;
+    text-align: center;
+    font-size: larger;
+}
+
+.Main a:hover {
+    cursor: pointer;
+    background-color: #0e88fa;
+    border-radius: 20px;
+}

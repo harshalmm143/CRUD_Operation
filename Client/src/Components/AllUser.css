@@ -1,0 +1,20 @@
+.All-user-Container h5 {
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    color: #000;
+    margin: 2%;
+    text-decoration: underline;
+}
+
+.User-cards {
+    width: 23rem;
+    margin-bottom: 4%;
+    background-color: #f6d9e4;
+    
+}
+
+.User-cards:hover{
+    box-shadow: 0px 5px 20px rgb(0, 0, 0);
+    border-radius: 10px;
+}
