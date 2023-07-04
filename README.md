@@ -3,7 +3,7 @@
 </p>
 
 
-# CRED Operation on User Details
+# CRUD Operation on User Details
 
 CRED Operation On User You Can **ADD** **DELETE**  and **UPDATE** the User and **VIEW** all users .
 
